@@ -21,7 +21,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/Littlegolden/flarum-lang-simplified-chinese"
+      "url": "https://github.com/WannerZoer/flarum-lang-simplified-chinese"
     }
   ],
   "require": {
