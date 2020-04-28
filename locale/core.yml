@@ -264,7 +264,7 @@ core:
 
     # These translations are used in the discussion list.
     discussion_list:
-      empty_text: "暂无内容"
+      empty_text: "暂无讨论内容..."
       load_more_button: => core.ref.load_more
       mark_as_read_tooltip: 标记为已读
       replied_text: "{username} 回复于 {ago}"
