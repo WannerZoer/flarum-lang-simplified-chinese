@@ -1,6 +1,6 @@
 {
   "name": "wannerzoer/flarum-lang-simplified-chinese",
-  "description": "Flarum 简体中文语言包 2020 基于 Littlegolden版本，修改了自己的一些翻译",
+  "description": "Flarum 简体中文语言包基于 Littlegolden版本，修改了自己的一些翻译",
   "keywords": [
     "flarum",
     "locale",
